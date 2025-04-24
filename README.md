@@ -5,6 +5,7 @@ Personal GitHub Project:  Built and organized a hands-on SQL learning repository
 Welcome to my personal **SQL learning repository**, where I practice and showcase everything from **basic SELECT queries** to **advanced Snowflake features**.
 
 This repo is designed as a **learning roadmap** and **portfolio** for job applications in data engineering, analysis, and database development.
+Although I have 2 years of SQL experience at Accenture, this repository is a personal refresher project where I revisit concepts from the ground up, document learnings, and practice real-world exercises to strengthen my SQL skills.
 
 ---
 
