@@ -1,6 +1,6 @@
 Personal GitHub Project:  Built and organized a hands-on SQL learning repository with real-world examples and exercises
 
-# 📊 SQL From Scratch to Advanced
+# 📊 SQL Fundamentals to Advanced Portfolio
 
 Welcome to my personal **SQL learning repository**, where I practice and showcase everything from **basic SELECT queries** to **advanced Snowflake features**.
 
